@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "isRoot": true,
+  "tools": {
+    "kentico.kontent.modelgenerator": {
+      "version": "5.0.1",
+      "commands": [
+        "KontentModelGenerator"
+      ]
+    },
+    "dotnet-ef": {
+      "version": "3.1.4",
+      "commands": [
+        "dotnet-ef"
+      ]
+    }
+  }
+}
